@@ -2,5 +2,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
->It looks like
->He tried
+__Trying to use *[Markdown](https://guides.github.com/features/mastering-markdown/)*__
